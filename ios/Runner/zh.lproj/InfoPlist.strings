@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 刘宣平 on 2021/4/6.
+  
+*/
+"CFBundleDisplayName" = "粘贴分享";
+"NSLocalNetworkUsageDescription" = "允许我发现和分享文件给局域网的设备";
+"NSPhotoLibraryUsageDescription" = "允许我分享图片";

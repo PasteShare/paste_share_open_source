@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 刘宣平 on 2021/4/6.
+  
+*/
+"CFBundleDisplayName" = "PasteShare";
+"NSLocalNetworkUsageDescription" = "Allow me to find and connect to devices on same wifi.";
+"NSPhotoLibraryUsageDescription" = "To share photos, please allow permission to access your photo library.";

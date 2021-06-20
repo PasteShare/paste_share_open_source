@@ -1,0 +1,10 @@
+{
+    "appDisplayName": "粘贴分享",
+    "connectedDevices": "连接过的设备",
+    "helpTips": "在其他软件里面分享到粘贴分享 \n\n 或 \n\n 点击右下角的添加按钮",
+    "undo": "撤销",
+    "deviceNotFound": "找不到设备",
+    "iKnow": "知道了",
+    "goSettings": "去设置",
+    "turnOnYourLocalNetworkSettings": "需要打开本地网络权限才能使用"
+}

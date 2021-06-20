@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 刘宣平 on 2021/4/3.
+  
+*/
+"APP_NAME" = "PasteShare";
+/* Localized Bundle Display Name */
+"CFBundleDisplayName" = "PasteShare";
+"CFBundleName" = "PasteShare";
+"PRODUCT_NAME" = "PasteShare";
