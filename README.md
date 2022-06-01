@@ -19,7 +19,7 @@ For help getting started with Flutter, follow [online documentation](https://flu
 
 ## Available on Apple App Store and Google Play
 
-[https://lan.liuxuanping.com](https://lan.liuxuanping.com)
+[https://pasteshare.app](https://pasteshare.app)
 
 ## ScreensShot
 
