@@ -1,7 +1,11 @@
 ![ScreensShot](./assets/web/favicon.ico)
-# PasteShare v1.0.0
+# PasteShare (Open Source v1)
 
 A Cross-Platform ( macOS / iOS / Android / Windows / Ubuntu ) clipboard tool on LAN.
+
+> **Note**: This repository contains the source code for **PasteShare v1**. Starting from **v2**, the core logic has been rewritten in C++ and is **no longer open source**.
+>
+> Official Website: [https://nearby.local1st.app](https://nearby.local1st.app)
 
 ## Getting Started
 
@@ -19,7 +23,7 @@ For help getting started with Flutter, follow [online documentation](https://flu
 
 ## Available on Apple App Store and Google Play
 
-[https://pasteshare.app](https://pasteshare.app)
+[https://nearby.local1st.app](https://nearby.local1st.app)
 
 ## ScreensShot
 
